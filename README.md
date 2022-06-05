@@ -24,7 +24,8 @@
  
 <div>
     <a align="bottom" href="https://www.instagram.com/tthalisson48/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-    <a align="bottom" href="https://www.linkedin.com/in/thalisson-lopes-431b9b225/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+    <a align="bottom" href="https://www.linkedin.com/in/thalisson-lopes-431b9b225/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
     <a align="bottom" href="https://www.facebook.com/thalisson.lopes.3990https://www.facebook.com/thalisson.lopes.3990" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
     <a align="bottom" href="http://tas48@protonmail.com" target="blank"><img src="https://img.shields.io/badge/ProtonMail-7289DA?style=for-the-badge&logo=protonmail&logoColor=white" target="blank"></a>
+  <a align="bottom" href="https://linktr.ee/tas48" target="blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="blank"></a>
   </div>
