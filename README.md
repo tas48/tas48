@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/tas48"><br>
-  <img height="180em" src="c"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas48&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas48&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tas48&show_icons=true&theme=dark"/>
 </div>
   <div style="display: inline_block">
     <hr>
