@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas48&layout=compact&hide_border=true&title_color=4ECABF&text_color=4ECABF&bg_color=0d1117" />
 </div>
 
-### Dev Skills:
+#### Dev Skills:
 
  <div style="display: inline_block">
   
@@ -19,13 +19,13 @@
 </div>
 
 
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
+<div align="center">
+    <a align="bottom" href="https://www.instagram.com/tthalisson48/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+    <a align="bottom" href="https://www.linkedin.com/in/thalisson-lopes-431b9b225/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a align="bottom" href="https://www.facebook.com/thalisson.lopes.3990https://www.facebook.com/thalisson.lopes.3990" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
+    <a align="bottom" href="http://tas48@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-7289DA?style=for-the-badge&logo=protonmail&logoColor=white" target="blank"></a>
+  </div>
+ 
 
 
 
