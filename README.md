@@ -19,6 +19,16 @@
   
 </div>
 
+### Dev Skills:
+
+ <div style="display: inline_block">
+  
+  <img align="center" alt="C#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="react" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+ 
+  
+</div>
+
 ##
 
 <div align="center">
