@@ -19,7 +19,7 @@
   
 </div>
 
-### Dev Skills:
+### Dev Learning:
 
  <div style="display: inline_block">
   
