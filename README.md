@@ -18,7 +18,6 @@
   <!-- Linguagens -->
   <img title="HTML" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="Sass" alt="Sass" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img title="JavaScript" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="TypeScript" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img title="PHP" alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -34,8 +33,6 @@
   <!-- Ferramentas -->
   <img title="Git" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img title="Linux" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img title="Swagger" alt="Swagger" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-  <img title="Postman" alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   
   
 </div>
