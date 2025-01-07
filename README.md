@@ -26,20 +26,22 @@
   <!-- Frameworks -->
   <img title="Laravel" alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">
   <img title="Spring Boot" alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img title="Angular" alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img title="React" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img title="Bootstrap" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
 
   <!-- Ferramentas -->
   <img title="Git" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img title="Docker" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img title="Linux" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img title="Swagger" alt="Swagger" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+  
 </div>
 
-##  
+##  img
 
 <div align="center">
     <a align="bottom" href="https://www.instagram.com/tthalisson48/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
     <a align="bottom" href="https://www.linkedin.com/in/thalisson-lopes-431b9b225/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a align="bottom" href="https://www.facebook.com/thalisson.lopes.3990" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
-    <a align="bottom" href="mailto:tas48@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-7289DA?style=for-the-badge&logo=protonmail&logoColor=white" target="blank"></a>
+    <a align="bottom" href="mailto:talissonlps11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+   <a align="bottom" href="https://w.app/TCtR2a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
+    
 </div>
