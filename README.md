@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF3E3E&size=28&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Thalisson+🙃;I'm+a+web+developer+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tas48&show_icons=true&count_private=true&hide_border=true&title_color=CF3E3E&icon_color=CF3E3E&text_color=CF3E3E&bg_color=0d1117" alt="Thalisson github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas48&layout=compact&hide_border=true&title_color=CF3E3E&text_color=CF3E3E&bg_color=0d1117" />
